@@ -1,0 +1,16 @@
+langchain~=0.3.0
+langchain-community~=0.3.0
+langchain-experimental~=0.3.0
+langchain-huggingface
+langchain-cohere
+cohere
+chromadb
+flashrank
+ragas
+datasets
+pypdf
+tiktoken
+sentence-transformers
+pandas
+matplotlib
+seaborn

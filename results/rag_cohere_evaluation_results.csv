@@ -1,0 +1,11 @@
+question,faithfulness,answer_relevancy,context_precision
+Who is the Chair and CEO of TriageLogic?,0.0,0.1598855402317791,0.9999999999666667
+What is the average call back time according to the Key Features?,0.0,0.10417667185422225,0.5833333333041666
+How long must audio records be kept by TriageLogic?,1.0,0.8066046402120328,0.49999999995
+Who has the final approval authority for all marketing and sales communications?,1.0,0.7815775270109887,0.9999999999666667
+What is the acceptable performance standard score for the end-user satisfaction survey?,1.0,0.9593522090078523,0.9999999999666667
+Within what time frame should corrective actions be completed after identifying a problem during an internal investigation?,1.0,0.9521460401127445,0.9999999999
+How often are TriageLogic marketing and sales communication materials reviewed by the Marketing Committee?,0.0,0.26114619915626536,0.5833333333041666
+Are users of the TriageLogic system required to print information based on standard workflows?,1.0,0.29489176443126897,0.3333333333
+How does TriageLogic define 'Plain Language'?,1.0,0.21259452797910913,0.9999999999
+What is the procedure if both the primary and backup servers are unavailable?,1.0,0.7795296113332043,0.9999999999666667
